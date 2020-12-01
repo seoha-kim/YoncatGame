@@ -134,7 +134,7 @@ class Shop:
                         (self.popup_back_button_y <= mouse_y <= self.popup_back_button_y + self.popup_back_button_height):
                     if event.type == pygame.MOUSEBUTTONDOWN:
                         no_event = False
-                        self.show_snack()
+                        self.show_toy()
 
                 if (self.popup_buy_x <= mouse_x <= self.popup_buy_x+self.popup_buy_width) and \
                         (self.popup_buy_y <= mouse_y <= self.popup_buy_y + self.popup_buy_height):
