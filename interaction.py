@@ -15,8 +15,8 @@ class Interaction:
 
         self.background, self.background_x, self.background_y = 'images/4_interaction_obj/background_cat/interaction_background.png', 0, 0
         self.cat_background, self.cat_background_x , self.cat_background_y = 'images/4_interaction_obj/background_cat/{}_background.png'.format(cat), 684, 159
-        self.cat, self.cat_x, self.cat_y = 'images/4_interaction_obj/background_cat/kakku.png',787, 156
-        self.cat_closed_eye, self.cat_closed_eye_x, self.cat_closed_eye_y = 'images/4_interaction_obj/background_cat/kakku_closed_eye.png', 773, 141
+        self.cat, self.cat_x, self.cat_y = 'images/4_interaction_obj/background_cat/kakku.png',711, 77
+        self.cat_closed_eye, self.cat_closed_eye_x, self.cat_closed_eye_y = 'images/4_interaction_obj/background_cat/kakku_closed_eye.png', 711, 77
 
         self.catbook, self.catbook_x, self.catbook_y = 'images/4_interaction_obj/book.png', 2,19
         self.catbook_width, self.catbook_height = 102, 72
