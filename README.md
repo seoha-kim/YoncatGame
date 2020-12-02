@@ -3,7 +3,7 @@ Game "Take Care of Yoncat" with Interaction Design (End)
 <br>
 <br>
 
-![take_care_of_yoncat_01](play_images/take_care_of_yoncat_01.png)
+![take_care_of_yoncat_01 ><](play_images/take_care_of_yoncat_01.png)
 ![take_care_of_yoncat_02](play_images/take_care_of_yoncat_02.png)
 ![take_care_of_yoncat_03](play_images/take_care_of_yoncat_03.png)
 ![take_care_of_yoncat_04](play_images/take_care_of_yoncat_04.png)
