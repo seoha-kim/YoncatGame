@@ -2,6 +2,6 @@
 Game "Take Care of Yoncat" with Interaction Design (End)
 <br>
 <br>
-<iframe width="560" height="315" src="https://youtu.be/1w05MwLc3LY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Take Care of Yoncat](https://yt-embed.herokuapp.com/embed?v=1w05MwLc3LY)](https://www.youtube.com/watch?v=1w05MwLc3LY "연세대 냥이를 돌봐줘!")
 <br>
 ![take_care_of_yoncat_introduction](play_images/take_care_of_yoncat.png)
